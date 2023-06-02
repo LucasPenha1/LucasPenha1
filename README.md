@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu souu Lucas Penha</h1>
+<h1 align="center">Olá 👋, Eu sou Lucas Penha</h1>
 <h3 align="center">Python, machine learning e Java</h3>
 
 - Eu estou aprendendo **Python, machine learning e Java**
